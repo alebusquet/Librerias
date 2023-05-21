@@ -6,7 +6,7 @@
 
 Ejercicios de práctica con las librerías `os` y `pathlib`.
 
-Como reemplazar el uso de comandos mediante el Sistema Operativo (Mac o Windows) con código de python.
+Cómo reemplazar el uso de comandos mediante el Sistema Operativo (Mac o Windows) con código de python.
 
 La intención es ir actualizando con nuevos comandos.
 
